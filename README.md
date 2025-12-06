@@ -34,7 +34,7 @@ exclusions varchar
 extras varchar
 order_time timestamp
 
-CASE STUDY QUESTIONS
+CASE STUDY QUESTIONS:-
 
 1. How many burgers were ordered?
 2. How many unique customer orders were made?
