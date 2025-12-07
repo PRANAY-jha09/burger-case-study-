@@ -1,4 +1,4 @@
-INTRODUCTION
+INTRODUCTION:
 I have a started a new business of selling burger because I read on my Instagram
 feed that „Burger Is the Future!
 But I knew that burger alone was not going to help me get seed funding to expand
